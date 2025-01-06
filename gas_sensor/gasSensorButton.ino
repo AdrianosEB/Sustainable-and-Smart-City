@@ -1,3 +1,4 @@
+// Code from Arduino-Adafruit connection docs
 //adafruitio_08_analog_in1
 
 // board WeMos D1 R1
